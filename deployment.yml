@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: web-app
-        image: pedrofraca/web-app:1.3
+        image: pedrofraca/web-app:1.11
         ports:
         - name: web
           containerPort: 80
